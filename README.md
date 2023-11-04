@@ -1,10 +1,9 @@
-<h1 align="center">Hi! I'm Angad Singh (he/him)!</h1>
+<h1 align="center">Hi! I'm Angad Singh.</h1>
 <h3 align="center">I'm a Software Engineer with 4 years of experience in the Payments space.</h3>
 
 - ⚡ I’m currently contributing to [Volante Studio, at Volante Technologies](https://www.volantetech.com/payments/volpay-ecosystem/)
 
 - 🌱 I’m currently learning ReactJS, Ruby-on-Rails and Kubernetes!
-
 
 <h3 align="left">CS is better when we work together. Reach out to me!</h3>
 <p align="left">
@@ -20,10 +19,7 @@
 </p>
 
 
-
-
 <h3 align="left">My Skills Include:</h3>
-
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
@@ -59,6 +55,8 @@
   	<a href="https://spring.io/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 	</a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 			alt="nodejs" width="40" height="40"/> 
+	</a> 
 </p>
 
 <h4 align="left">Data Tools and Databases:</h4>
