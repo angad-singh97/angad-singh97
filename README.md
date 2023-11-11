@@ -58,8 +58,8 @@
 <table>
   <!-- Table Headers -->
   <tr>
-    <th align="center">Badges</th>
-    <th align="center">Top Repositories</th>
+    <th align="center">Stats</th>
+    <th align="center">Projects</th>
   </tr>
 
   <!-- Table Body -->
