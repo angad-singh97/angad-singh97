@@ -65,9 +65,9 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 <a href="https://github.com/angad-singh97/AeroSage" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com.svg" width="64" height="64" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" width="32" height="32" />
         </picture>
         AeroSage
 	</a>
@@ -76,14 +76,21 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="64" height="64" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="32" height="32" />
         </picture>
         Temporal Movie Recommender
 	</a>
+	</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/angad-singh97/PyRestoManager" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" width="32" height="32" />
+        </picture>
+        PyResto Manager
+	</a>
     </div>
-
-
-
 
 <h3 align="left">Tables are fun - here are my skills!</h3>
 
