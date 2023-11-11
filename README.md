@@ -55,44 +55,49 @@
 	</a>
 </p>
 
-### Badges
+<table>
+  <!-- Table Headers -->
+  <tr>
+    <th align="center">Badges</th>
+    <th align="center">Top Repositories</th>
+  </tr>
 
-<a href="https://github.com/angad-singh97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angad-singh97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <!-- Table Body -->
+  <tr>
+    <!-- Badges Column -->
+    <td align="center" valign="top">
+      <a href="https://github.com/angad-singh97">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angad-singh97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+      </a>
+    </td>
+    <!-- Projects Column -->
+    <td align="center" valign="top">
+      <div>
+        <!-- AeroSage Project -->
+        <a href="https://github.com/angad-singh97/AeroSage" target="_blank" rel="noreferrer">
+          <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" width="40" height="40" />
+          <br>AeroSage
+        </a>
+        <br/><br/>
+        <!-- Temporal Movie Recommender Project -->
+        <a href="https://github.com/angad-singh97/Timestamp-Reranking-Movie-Recommender" target="_blank" rel="noreferrer">
+          <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="40" height="40" />
+          <br>Temporal Movie Recommender
+        </a>
+        <br/><br/>
+        <!-- PyResto Manager Project -->
+        <a href="https://github.com/angad-singh97/PyRestoManager" target="_blank" rel="noreferrer">
+          <img src="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" width="40" height="40" />
+          <br>PyResto Manager
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<b>Top Repositories</b>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-<a href="https://github.com/angad-singh97/AeroSage" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" width="40" height="40" />
-        </picture>
-        AeroSage
-	</a>
-	<br/><br/>
-<a href="https://github.com/angad-singh97/Timestamp-Reranking-Movie-Recommender" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="40" height="40" />
-        </picture>
-        Temporal Movie Recommender
-	</a>
-	</a>
-	<br/><br/>
-<a href="https://github.com/angad-singh97/PyRestoManager" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" width="40" height="40" />
-        </picture>
-        PyResto Manager
-	</a>
-    </div>
-
-<h3 align="left">Tables are fun - here are my skills!</h3>
+<h3 align="left">Skills - Detailed</h3>
 
 <table>
 <tr>
