@@ -55,7 +55,7 @@
 		</picture>
 	</a>
 </p>
-<h3 align="left">Skills, Projects and a bit of Data</h3>
+<h3 align="left">Skills, Projects and Data</h3>
 
 <table  align="center">
   <!-- Table Headers -->
