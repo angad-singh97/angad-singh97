@@ -5,14 +5,14 @@
 ----------------------------------------
 
 
-* 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/angadsingh1997)
-* ✉️  You can contact me at [angadsingh291297@gmail.com](mailto:angadsingh291297@gmail.com)
+* 🌍  I'm hail from Pune, India.
+* 🖥️  You can reach out to me over on [LinkedIn](http://linkedin.com/in/angadsingh1997).
+* ✉️  I'm also just an email over on [angadsingh291297@gmail.com](mailto:angadsingh291297@gmail.com).
 * 🚀  I'm currently working on [AeroSage!](http://github.com/angad-singh97/AeroSage)
 * 🧠  I'm learning ReactJS, Kubernetes and ElasticSearch.
 * 🤝  I'm open to collaborating on Java and Spring based open-source projects.
-* ⚡ I’m currently contributing to Volante Studio, at Volante Technologies 
-* 🌱 I’m currently learning ReactJS, Ruby-on-Rails and Kubernetes!
+* ⚡ I’m currently contributing to Volante Studio, at Volante Technologies. My recent work involves automating the delivery of real-time payments artifacts into a SaaS environment.
+
 
 ### Skills at a Glance
 
@@ -67,26 +67,26 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" width="32" height="32" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com2.svg" width="40" height="40" />
         </picture>
         AeroSage
 	</a>
-	<br/>
+	<br/><br/>
 <a href="https://github.com/angad-singh97/Timestamp-Reranking-Movie-Recommender" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="32" height="32" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="40" height="40" />
         </picture>
         Temporal Movie Recommender
 	</a>
 	</a>
-	<br/>
+	<br/><br/>
 <a href="https://github.com/angad-singh97/PyRestoManager" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
-            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" width="32" height="32" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" width="40" height="40" />
         </picture>
         PyResto Manager
 	</a>
