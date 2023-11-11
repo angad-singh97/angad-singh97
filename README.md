@@ -71,7 +71,7 @@
         </picture>
         AeroSage
 	</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<br/>
 <a href="https://github.com/angad-singh97/Timestamp-Reranking-Movie-Recommender" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
@@ -81,7 +81,7 @@
         Temporal Movie Recommender
 	</a>
 	</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<br/>
 <a href="https://github.com/angad-singh97/PyRestoManager" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/restaurant-coffee-shop-svgrepo-com.svg" />
