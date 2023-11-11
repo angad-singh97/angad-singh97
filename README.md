@@ -61,16 +61,27 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
- <a href="https://github.com/angad-singh97/AeroSage" target="_blank" rel="noreferrer">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="" />
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-			<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="64" height="64" />
-		</picture>
-	 	 AeroSage
+<div style="display: flex; align-items: center; justify-content: center;">
+<a href="https://github.com/angad-singh97/AeroSage" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com.svg" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/plane-svgrepo-com.svg" width="64" height="64" />
+        </picture>
+        AeroSage
 	</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/angad-singh97/Timestamp-Reranking-Movie-Recommender" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" />
+            <img src="https://github.com/angad-singh97/angad-singh97/blob/main/broadcast-live-show-svgrepo-com.svg" width="64" height="64" />
+        </picture>
+        Temporal Movie Recommender
+	</a>
+    </div>
+
 
 
 
