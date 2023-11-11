@@ -5,7 +5,7 @@
 ----------------------------------------
 
 
-* 🌍  I'm hail from Pune, India.
+* 🌍  I hail from Pune, a wonderful little city in the state of Maharashtra, India.
 * 🖥️  You can reach out to me over on [LinkedIn](http://linkedin.com/in/angadsingh1997).
 * ✉️  I'm also just an email over on [angadsingh291297@gmail.com](mailto:angadsingh291297@gmail.com).
 * 🚀  I'm currently working on [AeroSage!](http://github.com/angad-singh97/AeroSage)
