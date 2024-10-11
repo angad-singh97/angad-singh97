@@ -5,13 +5,13 @@
 ----------------------------------------
 
 
-* 🌍  I hail from Pune, a wonderful little city in the state of Maharashtra, India.
-* 🖥️  You can reach out to me over on [LinkedIn](http://linkedin.com/in/angadsingh1997).
-* ✉️  I'm also just an email away at [angadsingh291297@gmail.com](mailto:angadsingh291297@gmail.com).
-* 🚀  I'm currently working on [AeroSage!](http://github.com/angad-singh97/AeroSage)
-* 🧠  I'm learning ReactJS, Kubernetes and ElasticSearch.
+* 🌍  I hail from Pune, a wonderful little city in the state of Maharashtra, India. I am currently in Stony Brook, New York!
+* 🖥️  You can reach out to me over on [LinkedIn](https://www.linkedin.com/in/angad-sde-nyc/).
+* ✉️  I'm also just an email away at [angadsingh291297@gmail.com](mailto:angadsdenyc@gmail.com).
+* 🚀  I'm currently working on [[REDACTED - STAY TUNED!]](https://worrydream.com/404)
+* 🧠  I'm currently learning SystemVerilog, Distributed Systems, and duino Programming.
 * 🤝  I'm open to collaborating on Java and Spring based open-source projects.
-* ⚡ I’m currently contributing to Volante Studio, at Volante Technologies. My recent work involves automating the delivery of real-time payments artifacts into a SaaS environment.
+* ⚡ I last contributed to Volante Studio, at Volante Technologies. My recent work involved automating the delivery of real-time payments artifacts into a SaaS environment.
 
 
 
