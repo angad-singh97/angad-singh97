@@ -9,7 +9,7 @@
 * 🖥️  You can reach out to me over on [LinkedIn](https://www.linkedin.com/in/angad-sde-nyc/).
 * ✉️  I'm also just an email away at [angadsingh291297@gmail.com](mailto:angadsdenyc@gmail.com).
 * 🚀  I'm currently working on [[REDACTED - STAY TUNED!]](https://worrydream.com/404)
-* 🧠  I'm currently learning SystemVerilog, Distributed Systems, and duino Programming.
+* 🧠  I'm currently learning SystemVerilog, Distributed Systems, and Arduino Programming.
 * 🤝  I'm open to collaborating on Java and Spring based open-source projects.
 * ⚡ I last contributed to Volante Studio, at Volante Technologies. My recent work involved automating the delivery of real-time payments artifacts into a SaaS environment.
 
