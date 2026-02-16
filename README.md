@@ -26,7 +26,7 @@ Currently pursuing an MSCS at Stony Brook University, specializing in **High-Per
     * Implemented **Zero-Copy DMA** via Hugepages and `vfio-platform`.
 
 #### [5-Stage Pipelined RISC-V Core](https://github.com/angad-singh97/riscv-core-verilog)
-* **The Architecture:** RV32I ISA implementation with a 5-stage pipeline (Fetch, Decode, Execute, Memory, Writeback).
+* **The Architecture:** RV64IM ISA implementation with a 5-stage pipeline (Fetch, Decode, Execute, Memory, Writeback).
 * **The Optimization:** Implemented a **Data Forwarding Unit** to resolve RAW hazards without stalling and a **2-bit Dynamic Branch Predictor** to minimize control penalties.
 
 #### [LuigiDB - Geo-Distributed Transaction Protocol](https://github.com/angad-singh97/luigi-db)
