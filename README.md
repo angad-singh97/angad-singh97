@@ -33,6 +33,10 @@ Currently pursuing an MSCS at Stony Brook University, specializing in **High-Per
 * Timestamp-ordered execution with a 2-WRTT commit bound; 30–60× higher throughput than OCC in multi-shard geo setups.
 * Built on Mako (OSDI'25); TPC-C benchmarks on cloud infrastructure with simulated network latency.
 
+#### [Raft Consensus in C++](https://github.com/angad-singh97/dslabs-cpp-angad-singh97)
+* **The Scope:** Raft consensus protocol for a replicated state machine in a distributed systems framework (MIT 6.824–style lab).
+* **The Engineering:** Implemented leader election with randomized timeouts, log replication via AppendEntries, and RPC handlers for RequestVote/AppendEntries. Thread-safe state machine with mutexes and atomic terms; all 8 correctness tests passing.
+
 ---
 
 ### 💼 Professional Experience
