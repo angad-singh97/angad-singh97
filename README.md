@@ -25,9 +25,9 @@ Currently pursuing an MSCS at Stony Brook University, specializing in **High-Per
 * **The Architecture:** RV32I ISA implementation with a 5-stage pipeline (Fetch, Decode, Execute, Memory, Writeback).
 * **The Optimization:** Implemented a **Data Forwarding Unit** to resolve RAW hazards without stalling and a **2-bit Dynamic Branch Predictor** to minimize control penalties.
 
-#### [LuigiDB - Geo-Distributed Database Engine](https://github.com/angad-singh97/luigi-db)
-* **The System:** Low-latency geo-replication layer using **Decentralized Two-Phase Commit (D2PC)**.
-* **The Result:** Reduced cross-region round trips by 50% using Hybrid Logical Clocks (HLC) and Multi-Paxos.
+#### [LuigiDB - Geo-Distributed Transaction Protocol](https://github.com/angad-singh97/luigi-db)
+* Timestamp-ordered execution with a 2-WRTT commit bound; 30–60× higher throughput than OCC in multi-shard geo setups.
+* Built on Mako (OSDI'25); TPC-C benchmarks on cloud infrastructure with simulated network latency.
 
 ---
 
