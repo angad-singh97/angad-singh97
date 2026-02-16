@@ -37,6 +37,9 @@ Currently pursuing an MSCS at Stony Brook University, specializing in **High-Per
 * **The Scope:** Raft consensus protocol for a replicated state machine in a distributed systems framework (MIT 6.824–style lab).
 * **The Engineering:** Implemented leader election with randomized timeouts, log replication via AppendEntries, and RPC handlers for RequestVote/AppendEntries. Thread-safe state machine with mutexes and atomic terms; all 8 correctness tests passing.
 
+#### [Paxos-Based Distributed Transaction System](https://github.com/angad-singh97/paxos)
+* **The Scope:** Fault-tolerant distributed bank using a modified Multi-Paxos protocol over gRPC across five replica servers. When a server lacks balance for a transaction, it runs a full consensus round to reconcile state, then applies the agreed transaction block.
+* **The Engineering:** Implemented the full Paxos pipeline: extended Prepare/Promise with ballot codes for follower lag, proposer lag, and concurrent clashes; async consensus via `CompletableFuture` and gRPC deadlines; catch-up mechanism for lagging nodes; and a background transaction worker with retry logic. Designed Protobuf schemas for consensus and catch-up RPCs. Built in Java with Spring Boot and gRPC.
 ---
 
 ### 💼 Professional Experience
