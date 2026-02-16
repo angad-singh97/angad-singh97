@@ -14,6 +14,10 @@ Currently pursuing an MSCS at Stony Brook University, specializing in **High-Per
 
 ### 🚀 Featured Research & Projects
 
+#### [SBUnix — Coming Soon](https://compas.cs.stonybrook.edu/cse506-v3)
+* **The Scope:** Full Unix-like OS from scratch — kernel, file system (TARFS), virtual memory, preemptive scheduling, COW fork(), and user-mode processes (ring 3).
+* **The Stack:** Shell (SBUsh), init, syscalls (fork, execve, pipe, etc.), and libc (sblibc). Built in C and assembly.
+
 #### [User-Space Networking on RISC-V (DPDK + F-Stack)](https://github.com/angad-singh97/riscv-network-stack)
 * **The Challenge:** Bypassing the Linux Kernel on experimental RISC-V FPGA hardware to minimize packet processing latency.
 * **The Engineering:**
