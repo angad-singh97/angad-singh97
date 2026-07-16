@@ -1,7 +1,8 @@
 # Angad Singh | Systems Engineer
 
 **Building at the Hardware-Software Boundary.**
-Currently pursuing an MSCS at Stony Brook University, specializing in **High-Performance Networking**, **Kernel Bypass**, and **Computer Architecture**.
+MSCS at Stony Brook University (Graduated May 2026), specializing in **High-Performance Networking**, **Kernel Bypass**, and **Computer Architecture**.
+Designing Web/AI enterprise applications at Veolia North America.
 
 ---
 
